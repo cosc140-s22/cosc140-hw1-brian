@@ -1,0 +1,49 @@
+h1{
+  background-color: red;
+  color: white;
+  position: relative;
+  top: 50;
+  text-align: center;
+  font-family: "Georgia", Times, serif;
+}
+.tortilla_photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tortilla{
+  background-color: rgb(209, 125, 22);
+  color: white;
+}
+.fiveguys_photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#spoons{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fiveguys{
+  background-color: red;
+  color: white;
+}
+.chaistreet{
+background-color: blueviolet;
+color: white;
+}
+table{
+  border: 1px solid black;
+  position: fixed;
+  width: 100%;
+  background-color: azure;
+}
+th.header{
+  border: 1px solid rgb(68, 85, 143);
+}
+tr th:hover{
+  background-color: red;
+}
+
+
